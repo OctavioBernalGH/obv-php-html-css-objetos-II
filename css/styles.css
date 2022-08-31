@@ -1,0 +1,23 @@
+
+.container{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+form{
+    margin-top: 5rem;
+}
+
+fieldset{
+    border: 1px solid black;
+    padding: 4rem;
+}
+
+.form-control, .form-select{
+    text-align: center;
+    width: 450px;
+    margin: 0.5rem;
+}
